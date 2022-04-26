@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    image-rendering: pixelated;
+}
+
+body {
+    background-color: #000;
+}
+
+main {
+    margin: 0 auto;
+    width: 992px;
+}
+
+section {
+    width: 992px;
+}
+
+section#sky0 {
+    height: 764px;
+    background-image: url('./images/sky_0.png');
+    background-size: cover;
+}
+
+section#sky1 {
+    height: 192px;
+    background-image: url('./images/sky_1.png');
+    background-size: cover;
+}
+
+section#sky2 {
+    height: 192px;
+    background-image: url('./images/sky_2.png');
+    background-size: cover;
+}
+
+section#sky3 {
+    height: 192px;
+    background-image: url('./images/sky_3.png');
+    background-size: cover;
+}
+
+section#sky4 {
+    height: 320px;
+    background-image: url('./images/sky_4.png');
+    background-size: cover;
+}
+
+section#sky5 {
+    height: 448px;
+    background-image: url('./images/sky_5.png');
+    background-size: cover;
+}
+
+section#sky6 {
+    height: 384px;
+    background-image: url('./images/sky_6.png');
+    background-size: cover;
+}
+
+section#sky7 {
+    height: 512px;
+    background-image: url('./images/sky_7.png');
+    background-size: cover;
+}
