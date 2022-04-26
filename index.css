@@ -64,3 +64,16 @@ section#sky7 {
     background-image: url('./images/sky_7.png');
     background-size: cover;
 }
+
+section#sky8 {
+    height: 512px;
+    background-image: url('./images/sky_8.png');
+    background-size: cover;
+}
+
+section#sky9 {
+    height: 564px;
+    background-image: url('./images/sky_9.png');
+    background-size: cover;
+}
+
