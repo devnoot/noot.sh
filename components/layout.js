@@ -4,8 +4,8 @@ import styles from './layout.module.css';
 import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
 
-const name = 'Anthony Weed';
-export const siteTitle = 'My Profile';
+const name = 'noot.sh';
+export const siteTitle = 'noot.sh';
 
 export default function Layout({ children, home }) {
     return (
